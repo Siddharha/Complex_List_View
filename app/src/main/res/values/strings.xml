@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CList View</string>
+
+    <string name="hello_world">Complex List View</string>
+    <string name="action_settings">Settings</string>
+    <string name="Image_s">Image_show</string>
+    <string name="image_me">Names</string>
+</resources>
